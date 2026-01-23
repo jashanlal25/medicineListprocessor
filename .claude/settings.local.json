@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ipconfig:*)",
+      "Bash(findstr:*)",
+      "Bash(python update_htm.py:*)",
+      "Bash(python:*)",
+      "Bash(ls -la *.py)",
+      "Bash(python3:*)"
+    ]
+  }
+}
